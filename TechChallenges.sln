@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResourceBalancer", "ResourceBalancer\ResourceBalancer.csproj", "{AFDD2AFC-6C87-45E5-B00B-207FC239F5D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResourceBalancer.Tests", "ResourceBalancer.Tests\ResourceBalancer.Tests.csproj", "{B08D3BDA-1CBA-4A8D-B884-AF249EC81AD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFDD2AFC-6C87-45E5-B00B-207FC239F5D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFDD2AFC-6C87-45E5-B00B-207FC239F5D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFDD2AFC-6C87-45E5-B00B-207FC239F5D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFDD2AFC-6C87-45E5-B00B-207FC239F5D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B08D3BDA-1CBA-4A8D-B884-AF249EC81AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B08D3BDA-1CBA-4A8D-B884-AF249EC81AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B08D3BDA-1CBA-4A8D-B884-AF249EC81AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B08D3BDA-1CBA-4A8D-B884-AF249EC81AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A04A3B3-02BF-4ECD-99C2-1539312AB188}
+	EndGlobalSection
+EndGlobal
